@@ -2,8 +2,17 @@
 {
     internal class Program
     {
+        /// <summary>
+        /// Parman Gitijah, NET 24!
+        /// 
+        /// Jag har fixat olika casen som funktioner och kör funktionerna i main så att man vet att de funkar!
+        /// Jag har också lagt till kommentarer vid varie funktion där jag förklarar med egna ord vad jag har gjort.
+        /// Ursäkta att denna uppgift blev sen. Håll på att utveckla ett annat projekt vi fick av er ännu mer :D.
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
+            
             case1();
             Console.WriteLine();
 
